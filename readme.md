@@ -1,3 +1,5 @@
+![](basicbanner.png)
+
 # Autonomous Database for APEX Developers - Part I and II #
 
 ## Introduction ##
